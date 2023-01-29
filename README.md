@@ -26,3 +26,28 @@ Foi desenvolvido durante a semana da JSTACK.
 ![web_details_order](https://github.com/Fabricio1805/projeto-restaurante/blob/main/assets/details_order.png)
 
 
+# Tecnologias utilizadas
+
+
+## Back end
+ - Node js
+ - Typescript
+ - mongo
+ - Express 
+
+## front end
+  - React
+  - styled-components
+  - react-icons
+  - react-toastify
+  - axios
+
+## mobile
+  - React Native
+  - Expo
+  - axios
+  - styled-components
+
+
+
+
