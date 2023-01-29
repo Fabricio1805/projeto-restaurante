@@ -48,6 +48,71 @@ Foi desenvolvido durante a semana da JSTACK.
   - axios
   - styled-components
 
+# Como executar o projeto
+## Back end
+pre-requesito: node js | mongo
+```bash
+ # Clonar o repositório
+ git clone https://github.com/Fabricio1805/projeto-restaurante.git
+ 
+ # Entrar na pasta do projeto
+ cd projeto-restaurante 
+ 
+ # Entrar na pasta do projeto backend
+ cd backend
+ 
+ # Instalar as dependências
+ yarn
+ 
+ # Executar o projeto
+ yarn dev
+```
+
+## Front end
+
+Pré-requisitos: npm / yarn
+
+```bash
+# Clonar o repositório
+git clone https://github.com/Fabricio1805/projeto-restaurante.git
+
+# Entrar na pasta do projeto
+cd projeto-restaurante
+
+# Entrar na pasta do projeto front end
+cd frontend
+
+# Instalar dependências
+yarn
+
+# Executar o projeto
+yarn dev
+
+```
+
+## Mobile
+Pré-requisitos: expo
+
+```bash
+# Clonar o repositório
+git clone https://github.com/Fabricio1805/projeto-restaurante.git
+
+# Entrar na pasta do projeto
+cd projeto-restaurante
+
+# Entrar na pasta do projeto front end
+cd mobile
+
+# Instalar dependências
+npm i
+
+# Executar o projeto
+npm start
+
+```
 
 
+# Autor
 
+Fabricio Souza dos Santos 
+- https://www.linkedin.com/in/fabr%C3%ADcio-souza-408ab01b0/
