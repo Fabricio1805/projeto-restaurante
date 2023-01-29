@@ -18,8 +18,11 @@ Foi desenvolvido durante a semana da JSTACK.
 
 ![mobile_filter](https://github.com/Fabricio1805/projeto-restaurante/blob/main/assets/filter_category.png)
 
+
 ## Layout web
+
+![web_list_orders](https://github.com/Fabricio1805/projeto-restaurante/blob/main/assets/list_orders.png)
 
 ![web_details_order](https://github.com/Fabricio1805/projeto-restaurante/blob/main/assets/details_order.png)
 
-![web_list_orders](https://github.com/Fabricio1805/projeto-restaurante/blob/main/assets/list_orders.png)
+
